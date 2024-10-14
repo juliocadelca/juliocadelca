@@ -1,12 +1,6 @@
-Olá, eu sou @juliocadelca
-🌱 Estou interessado em QA Engineer, sempre buscando aprender e crescer.
-
-📚 Atualmente estou aprendendo Técnicas de testes, linguagem de programação e versionamento de código na DIO, explorando novas tecnologias e metodologias.
-
-🤝 Procuro colaborar em testes de software e qualidade de software, trocando conhecimentos e experiências.
-
-📫 Como me encontrar: 34 9 98715881
-
+🌱 Engenheiro de Garantia de Qualidade Aspirante com uma base sólida em técnicas de teste, linguagens de programação e sistemas de controle de versão. Atualmente concluindo meus estudos e mergulhando fundo nas últimas tecnologias e metodologias em QA.
+📚 Apaixonado por testes de software e garantia de qualidade, estou ansioso para colaborar em projetos que melhorem a confiabilidade e o desempenho do software. Eu prospero compartilhando conhecimento e experiências dentro da comunidade de QA.
+🤝 Aberto a oportunidades de colaboração e aprendizado, acredito no poder do trabalho em equipe para alcançar excelência em qualidade de software.
+📫 Sinta-se à vontade para entrar em contato: [Suas informações de contato]
 🔤 Pronomes: Julio Cadelca ou Julio
-
-⚡ Fato curioso: Dinâmico, busco entender sobre tudo na área de QA.
+⚡ Curiosidade: sou dinâmico e busco continuamente expandir meu entendimento de todos os aspectos do QA.
