@@ -4,6 +4,6 @@
 
 🤝 Aberto a oportunidades de colaboração e aprendizado, acredito no poder do trabalho em equipe para alcançar excelência em qualidade de software.
 
-📫 Sinta-se à vontade para entrar em contato: https://heylink.me/JulioCadelca/
+📫 Sinta-se à vontade para entrar em contato comigo [aqui](https://heylink.me/JulioCadelca/)
 
 ⚡ Curiosidade: Sou dinâmico e busco continuamente expandir meu entendimento de todos os aspectos do QA.
