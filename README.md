@@ -1,9 +1,17 @@
-🌱 Engenheiro de Garantia de Qualidade Aspirante com uma base sólida em técnicas de teste, linguagens de programação e sistemas de controle de versão. Atualmente concluindo meus estudos e mergulhando fundo nas últimas tecnologias e metodologias em QA.
 
-📚 Apaixonado por testes de software e garantia de qualidade, estou ansioso para colaborar em projetos que melhorem a confiabilidade e o desempenho do software.
+### Olá! Eu Sou o Júlio Cadelca 🙋‍♂️
 
-🤝 Aberto a oportunidades de colaboração e aprendizado, acredito no poder do trabalho em equipe para alcançar excelência em qualidade de software.
+[![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534998715881&text=QA%20Engineer%20Julio?)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cadelca/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocadelca/)
 
-📫 Sinta-se à vontade para entrar em contato comigo [aqui](https://heylink.me/JulioCadelca/)
+![JulioCadelca GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocadelca&show_icons=true&theme=tokyonight)
 
-⚡ Curiosidade: Sou dinâmico e busco continuamente expandir meu entendimento de todos os aspectos do QA.
+## Tecnologias que estou aprendendo agora:
+
+<div style+"display: inline_block"><br/>
+    <img align="center" alt="html5" src="    https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+     <img align="center" alt="html5" src="    https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+     <img align="center" alt="html5" src="    https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=blue">
+     <img align="center" alt="html5" src="    https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
