@@ -21,10 +21,12 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
-## Realizando automação de testes usando Cypress.💻
+# Ferramentas:💻
+ - Cypress
+ - Jira
+ - Cofluence
+ - Trello
+# Sobre e alvo:🎯
+### Possuo sólido conhecimento em testes de software, abrangendo técnicas de teste funcional, teste de regressão e teste de usabilidade. Tenho prática com ferramentas como Selenium e Cypress para automação de testes, e estou constantemente aprimorando minhas habilidades em linguagens de programação como JavaScript, Python, C, C# e Java, a fim de desenvolver scripts de teste eficazes.
 
-## Tenho uma base sólida em python.🐍
-
-# Mas meu maior desejo é aprender TODAS as linguagens de programção do mercado.💪
-
-## Aprender todas as linguagens para entender a sintaxe e aplicar Qualidade de Software.🤩🌳
+### Sou detalhista e meticuloso, garantindo que cada bug seja identificado e resolvido de maneira eficiente. Minha busca por conhecimento contínuo me leva a estudar novas metodologias de teste e ferramentas, sempre buscando a melhoria contínua e excelência na qualidade do software.
