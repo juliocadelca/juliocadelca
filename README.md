@@ -28,7 +28,7 @@
 
 ## Bem Vindos ao Meu Perfil do Github
 #### Meu maior objetivo de carreira é conhecer o máximo de tecnologias possíveis e aprender cada vez mais, para me tornar o nível mais alto de QA Engineer, e assim poder ajudar a melhorar a qualidade dos produtos e serviços que são desenvolvidos em uma empresa de software.
-#### Sou um jovem promissor com 25 anos de idade no momento, e estou em busca de oportunidades de carreira em QA que me permitam crescer e aprender cada vez mais.
+#### Sou um jovem promissor com 25 anos de idade no momento e apaixonado pela Qualidade de Software e estou em busca de oportunidades de carreira em QA que me permitam crescer e aprender cada vez mais.
 #### Não sou limitado as ferramentas necessárias para cada atividade e sempre vou querer me especializar nas ferramentas mais comuns do mercado, para que eu possa ser um profissional de alta qualidade e sempre estar atualizado. 
 #### Um dia, eu quero chegar no nível mais alto e ajudar os iniciantes e aspirantes como eu, a se tornarem profissionais de alta qualidade, e assim criar uma comunidade de QA que possa ajudar a melhorar a qualidade dos produtos e serviços que são desenvolvidos em qualquer empresa de software.
 
