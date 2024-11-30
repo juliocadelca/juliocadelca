@@ -32,7 +32,7 @@
 #### Não sou limitado as ferramentas necessárias para cada atividade e sempre vou querer me especializar nas ferramentas mais comuns do mercado, para que eu possa ser um profissional de alta qualidade e sempre estar atualizado. 
 #### Um dia, eu quero chegar no nível mais alto e ajudar os iniciantes e aspirantes como eu, a se tornarem profissionais de alta qualidade, e assim criar uma comunidade de QA que possa ajudar a melhorar a qualidade dos produtos e serviços que são desenvolvidos em qualquer empresa de software.
 
-
+=======================================================================================
 #### Por enquanto, estou fazendo os cursos básicos, dominando o que eu chamo de "O miolo da Qualidade de Software", por exemplo:
 - Testes Unitários
 - Testes de Integração
@@ -45,16 +45,21 @@
 - Metodologias ágeis
 - Piramide de testes
 - Processos de software
+
+=======================================================================================
 #### Além disso quero dominar o máximo de técnicas de automação de testes de software possível, estou fazendo os seguintes cursos:
 - Testes de software e QA - Iterasys com José correa - Udemy
 - Testes de aplicações modernas com Cypress - Com Francisco Wagner Costa Aquino - Udemy
 - Postman do Básico ao Avançado com Projetos - Com Gustavo Eduardo Silva Machado - Udemy
+
+=======================================================================================
 #### Cursos que estão na minha lista de compra para quando eu terminar os cursos que estou fazendo atualmente:
 - Robot
 - Playwright
 - Appium para testes de mobile Android e iOS
 - Xcuitest iOS
 
+=======================================================================================
 ## Sobre as linguagens de programação e ferramentas que eu sei e quero um dia me especializar são:
 ### Ainda estou em processo de aprendizado:💻
  - JavaScript
@@ -65,8 +70,12 @@
  - Ruby
  - Java
  - Kotlin
+
+=======================================================================================
 ### As que eu já domino (irei atualizando conforme vou dominando):
 - Python
+
+=======================================================================================
 ### Ferramentas e fremeworks:
 - Selenium WebDriver
 - PyAutoGUI
@@ -74,10 +83,10 @@
 - BDD, TDD, ATDD
 - Cypress
 - Postman
-=======
-# Principais Ferramentas:💻
- - Selenium
- - Cypress
- - Jira
- - Python
- - JavaScript
+- Jira
+- Cofluence
+- Trello
+- Scrum e Kanban
+- Planing Poker
+
+=======================================================================================
