@@ -82,17 +82,17 @@
 - Python
 
 =======================================================================================
-### Ferramentas e fremeworks:
-- Selenium WebDriver
+### Ferramentas e fremeworks (por ordem de dominância):
 - PyAutoGUI
-- Cucumber 
-- BDD, TDD, ATDD
-- Cypress
-- Postman
+- Selenium WebDriver
+- Cucumber
 - Jira
 - Cofluence
 - Trello
 - Scrum e Kanban
-- Planing Poker
+- Planing Poker 
+- BDD, TDD, ATDD
+- Cypress
+- Postman
 
 =======================================================================================
