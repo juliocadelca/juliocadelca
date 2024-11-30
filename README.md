@@ -56,7 +56,8 @@
 
 ##### Concluídos:
 - Curso de QA do QAlizando - YouTube
-- QA Engineer - DIO 
+- QA Engineer - DIO
+
 =======================================================================================
 #### Cursos que estão na minha lista de compra para quando eu terminar os cursos que estou fazendo atualmente:
 - Robot
