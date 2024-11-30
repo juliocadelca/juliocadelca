@@ -66,7 +66,7 @@
 - Xcuitest iOS
 
 =======================================================================================
-## Sobre as linguagens de programação e ferramentas que eu sei e quero um dia me especializar são:
+## Sobre as linguagens de programação e ferramentas que eu domino e quero um dia me especializar são:
 ### Ainda estou em processo de aprendizado:💻
  - JavaScript
  - HTML e CSS
