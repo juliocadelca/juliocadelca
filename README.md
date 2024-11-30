@@ -48,10 +48,15 @@
 
 =======================================================================================
 #### Além disso quero dominar o máximo de técnicas de automação de testes de software possível, estou fazendo os seguintes cursos:
+##### Em andamento:
 - Testes de software e QA - Iterasys com José correa - Udemy
 - Testes de aplicações modernas com Cypress - Com Francisco Wagner Costa Aquino - Udemy
 - Postman do Básico ao Avançado com Projetos - Com Gustavo Eduardo Silva Machado - Udemy
+- DevOps - DIO
 
+##### Concluídos:
+- Curso de QA do QAlizando - YouTube
+- QA Engineer - DIO 
 =======================================================================================
 #### Cursos que estão na minha lista de compra para quando eu terminar os cursos que estou fazendo atualmente:
 - Robot
