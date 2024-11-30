@@ -26,6 +26,7 @@
 
 </div>
 
+<<<<<<< HEAD
 ## Bem Vindos ao Meu Perfil do Github
 #### Meu maior objetivo de carreira é conhecer o máximo de tecnologias possíveis e aprender cada vez mais, para me tornar o nível mais alto de QA Engineer, e assim poder ajudar a melhorar a qualidade dos produtos e serviços que são desenvolvidos em uma empresa de software.
 #### Sou um jovem promissor com 25 anos de idade no momento, e estou em busca de oportunidades de carreira em QA que me permitam crescer e aprender cada vez mais.
@@ -74,3 +75,10 @@
 - BDD, TDD, ATDD
 - Cypress
 - Postman
+=======
+# Principais Ferramentas:💻
+ - Selenium
+ - Cypress
+ - Jira
+ - Python
+ - JavaScript
