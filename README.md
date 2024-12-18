@@ -19,7 +19,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <br>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <br> <br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Feito%20com-VSCode-1f425f.svg"/> 
     <img align="center" alt="html5" src="https://img.shields.io/badge/Commit%20pelo-GitBash-1f425f.svg"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Linguagem%20-Markdown-1f425f.svg"/>
