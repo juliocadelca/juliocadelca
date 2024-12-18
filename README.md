@@ -27,6 +27,6 @@
 </div>
 
 ## Bem Vindos ao Meu Perfil do Github
-### Bem-vindo ao meu perfil! Sou QA Engineer em evolução, apaixonado por qualidade de software. Busco dominar diversas tecnologias e metodologias, como testes (unitários, integração, E2E, performance, segurança), automação (Cypress, Selenium, Appium) e práticas ágeis (Scrum, Kanban). Em constante aprendizado, domino Python e ferramentas como Jira e Trello. Aspiro alcançar o nível mais alto na área, ajudando iniciantes e criando uma comunidade que valorize a excelência em software. 🚀
+### Sou QA Engineer em evolução, apaixonado por qualidade de software. Busco dominar diversas tecnologias e metodologias, como testes (unitários, integração, E2E, performance, segurança), automação (Cypress, Selenium, Appium) e práticas ágeis (Scrum, Kanban). Em constante aprendizado, domino Python e ferramentas como Jira e Trello. Aspiro alcançar o nível mais alto na área, ajudando iniciantes e criando uma comunidade que valorize a excelência em software. 🚀
 
 =======================================================================================
