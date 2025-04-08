@@ -24,6 +24,8 @@
 </div>
 
 ## Bem Vindos ao Meu Perfil do Github
-### Sou QA Engineer em evolução, apaixonado por qualidade de software. Busco dominar diversas tecnologias e metodologias, como testes (unitários, integração, E2E, performance, segurança), automação (Cypress, Selenium, Appium) e práticas ágeis (Scrum, Kanban). Em constante aprendizado, domino Python e ferramentas como Jira e Trello. Aspiro alcançar o nível mais alto na área, ajudando iniciantes e criando uma comunidade que valorize a excelência em software. 🚀
+### 🤖 Apaixonado por automação e inteligência artificial, criando soluções eficientes com Python, Selenium e PyAutoGUI.
+🚀 Exploro diariamente o poder de IA com GPT, Gemini, Grok e Perplexity para acelerar ideias, otimizar processos e transformar desafios em inovação.
+💡 Sempre em busca de evolução e tecnologias que fazem a diferença.
 
 =======================================================================================
