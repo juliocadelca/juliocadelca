@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cadelca/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocadelca/)
 
-![JulioCadelca GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocadelca&show_icons=true&theme=tokyonight)
+[![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocadelca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/juliocadelca)
 
 ## Tecnologias que estou aprendendo:
 
@@ -24,7 +24,7 @@
 
 ## 🎯 Analista de Dados focado em dados, automação e IA aplicada a soluções empresariais.
 
-## 🚀 Principais Skills
+### 🚀 Principais Skills
 
 * SQL (PostgreSQL & SQL Server)
 * Python
@@ -34,7 +34,7 @@
 * Power Automate
 * Git & GitHub
 
-## 🤖 IA & Automação
+### 🤖 IA & Automação
 
 Especializado no ecossistema Claude:
 
@@ -51,7 +51,7 @@ Também atuo com:
 * RPAs com IA
 * Automação de processos empresariais
 
-## 📌 Foco Atual
+### 📌 Foco Atual
 
 Construção de soluções inteligentes envolvendo:
 📊 Dados + 🤖 IA + ⚡ Automação
