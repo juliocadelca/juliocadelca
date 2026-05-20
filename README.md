@@ -22,7 +22,7 @@
 </div>
 
 
-🎯 Analista de Dados focado em dados, automação e IA aplicada a soluções empresariais.
+## 🎯 Analista de Dados focado em dados, automação e IA aplicada a soluções empresariais.
 
 ## 🚀 Principais Skills
 
