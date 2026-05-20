@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cadelca/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocadelca/)
 
-[![Julio's GitHub stats](https://github-readme-stats-dgkcl9yb9-juliocadelcas-projects.vercel.app/api?username=juliocadelca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/juliocadelca)
+[![Julio's GitHub stats](https://github-readme-stats-chi-liard-32.vercel.app/api?username=juliocadelca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/juliocadelca)
 
 ## Tecnologias que estou aprendendo:
 
